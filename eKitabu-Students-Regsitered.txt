@@ -1,0 +1,31 @@
+
+[
+    {
+    label: "Students Registered",
+    label_sub: "2013 to 2017 Year to Date",
+    priority_level: 1,
+    data: [
+    
+    {
+    "Date": "2013-07",
+    "Value": 692
+    },
+    {
+    "Date": "2014-07",
+    "Value": 2754
+    },
+    {
+    "Date": "2015-07",
+    "Value": 4874
+    },
+    {
+    "Date": "2016-07",
+    "Value": 11976
+    },
+    {
+    "Date": "2017-07",
+    "Value": 19776
+    }
+  ]
+  }
+]
