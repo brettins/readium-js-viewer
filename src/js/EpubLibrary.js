@@ -140,6 +140,7 @@ Helpers){
 
 
     var loadFilterCategoriesDialog = function() {
+        return;
         //load the categories template as a string
         bodyStr = FilterCategoriesDialogBody({string: Strings });
         showDialog("filterCategories");
